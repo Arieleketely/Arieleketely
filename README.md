@@ -4,6 +4,8 @@
 
 - 🔭 Evoluindo no front-end
 - 🌱 Estudando Angular
+- 🎂Data de nascimento: 06/12/1991
+- 🎼Tem música como hobby
 
 
 <div align="center">
